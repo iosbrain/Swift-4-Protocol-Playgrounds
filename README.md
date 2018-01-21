@@ -1,0 +1,2 @@
+# Swift-4-Protocol-Playgrounds
+We're going to talk about "protocols" in the Swift 4 language today. I'll explain them conceptually, and then we'll start coding protocols with a simple example. We'll then create our own versions of the Apple built-in Equatable and Comparable protocols, and apply them to two real-world classes, one for tracking financial securities and one for representing geometric lines/vectors. Finally, we'll test our geometric "Line" class in a type of Swift playground that supports rendering user interface components (like UIView) live in the simulator.
